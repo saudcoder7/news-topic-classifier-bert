@@ -174,10 +174,10 @@ python gradio_app.py
 
 ## 👤 Author
 
-**Your Name Here**
+**Saood Faisal Sheikh**
 
-LinkedIn — your linkedin link here
-GitHub  — your github link here
+LinkedIn — https://www.linkedin.com/in/saood-faisal-259b40316/
+GitHub  — https://github.com/saudcoder7
 
 ---
 
